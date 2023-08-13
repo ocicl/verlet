@@ -5,8 +5,10 @@ supports particles with position and direction, springs between
 particles, global gravity as well as gravity between particles, and
 spacial constraints.
 
-|---------+------------------------------------------|
-| source  | git:https://gitlab.com/Aksej/verlet.git  |
-| commit  | 3d6fbf81302760620604703656fa2465f80f33d1 |
-| systems | verlet                                   |
-|---------+------------------------------------------|
+
+|---------+-----------------------------------------|
+| source  | git:https://gitlab.com/Aksej/verlet.git |
+| commit  | 3d6fbf8                                 |
+| systems | verlet                                  |
+|---------+-----------------------------------------|
+--|
