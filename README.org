@@ -8,7 +8,7 @@ spacial constraints.
 
 |---------+-----------------------------------------|
 | source  | git:https://gitlab.com/Aksej/verlet.git |
-| commit  | 3d6fbf8                                 |
+| commit  | a8c7798                                 |
 | systems | verlet                                  |
 |---------+-----------------------------------------|
 --|
